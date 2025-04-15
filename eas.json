@@ -11,7 +11,7 @@
         "APP_VARIANT":"development"
       },
       "android": {
-        "image": "latest",
+        "image": "latest"
       },
       "ios": {
         "image": "latest"
