@@ -65,7 +65,7 @@ export default function Index() {
         alert('Saved!');
       }
     } catch (e) {
-      console.log(e);
+      console.log(e + 'a');
     }
   } else {
     try {
